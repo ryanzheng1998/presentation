@@ -9,8 +9,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].bundle.js',
-    publicPath:
-      'https://ryanzheng1998.github.io/react-motion-parameters-chooser/presentation',
+    publicPath: 'https://ryanzheng1998.github.io/presentation',
   },
 
   plugins: [
